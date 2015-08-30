@@ -1,0 +1,47 @@
+==== Постановка задачи ====
+
+I. Вычленить из исходного кода функции initialize() конструкцию вида:
+
+		latlngbounds.extend(new google.maps.LatLng(55.36825893099629, 30.56621789932251));
+		var infowindow_2 = new google.maps.InfoWindow({
+			content: '<div id="content"><h2>Поселение «Звон-Гора»</h2><p><a href="/poselenies/zvon-gora">Подробнее...</a><p></div>'
+		});
+		var marker_2 = new google.maps.Marker({
+			position: new google.maps.LatLng(55.36825893099629, 30.56621789932251),
+			map: map,
+			title:"Поселение «Звон-Гора»" ,
+			icon: 'http://ecoby.info/i/maps/marker_1.png'
+		});
+		google.maps.event.addListener(marker_2, 'click', function() {
+			infowindow_2.open(map,marker_2);
+		});
+		
+		
+II. Из которой извлечь данные:
+- широта, долгота  (55.36825893099629, 30.56621789932251)   <---- position:
+- название  (Поселение «Звон-Гора»)   <---- title:
+- ссылка                              <---- content:   a href=
+- тип поселения (marker_1.png)        <---- icon:
+    1 - развитое поселение (проживает больше 10 человек)
+    2 - в поселении зимуют (есть проживающие постоянно жители)
+    3 - поселение строится (идет строительство домов)
+    4 - поселение оформляется (идет оформление земли)
+    5 - инициативная группа (в поиске земли)
+    
+    
+III. И записать в конструкцию GeoJSON вида:
+   {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Звон-Гора»",
+        "подробнее": "http://ecoby.info/poselenies/zvon-gora",
+        "тип": "в поселении зимуют (есть проживающие постоянно жители)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.56621789932251,
+          55.36825893099629
+        ]
+      }
+    },
