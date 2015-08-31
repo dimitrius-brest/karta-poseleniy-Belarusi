@@ -1,5 +1,7 @@
 # -*- coding: utf-8 -*-
 
+# см. помощь по парсингу текста с использование регулярных выражений: https://toster.ru/q/76588
+
 with open('input.txt', 'r', encoding="utf-8") as f:
     text = f.read()
 
