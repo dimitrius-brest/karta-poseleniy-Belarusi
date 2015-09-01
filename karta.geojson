@@ -1,0 +1,590 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Звон-Гора»",
+        "подробнее": "http://ecoby.info/poselenies/zvon-gora",
+        "тип": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.56621789932251,
+          55.36825893099629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Росы»",
+        "подробнее": "http://ecoby.info/poselenies/rosy",
+        "тип": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.777712,
+          53.981443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Боброво»",
+        "подробнее": "http://ecoby.info/poselenies/bobrovo",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6621150970459,
+          54.50389121341665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Гняздоўе Ветраў»",
+        "подробнее": "http://ecoby.info/poselenies/gnjazdoue_vetrau",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.734912872314453,
+          55.283148295334705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Городище»",
+        "подробнее": "http://ecoby.info/poselenies/gorodishhe",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.087349,
+          55.825920
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Грушка»",
+        "подробнее": "http://ecoby.info/poselenies/grushka",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.187602996826172,
+          51.92325531928336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Досовичи»",
+        "подробнее": "http://ecoby.info/poselenies/dosovichi",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.079622268676758,
+          53.722208817163754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Дубично»",
+        "подробнее": "http://ecoby.info/poselenies/dubichno",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.049691,
+          51.911913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Зароново»",
+        "подробнее": "http://ecoby.info/poselenies/zaronovo",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.81191635131836,
+          55.3110014897884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Звенящие ручьи»",
+        "подробнее": "http://ecoby.info/poselenies/zvenjashhie_ruchi",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.04832649230957,
+          53.596376268392575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Камяніца»",
+        "подробнее": "http://ecoby.info/poselenies/kamjanca",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.229164,
+          54.305221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Красное»",
+        "подробнее": "http://ecoby.info/poselenies/krasnoe",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.186388898889,
+          52.168333343333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Ладное»",
+        "подробнее": "http://ecoby.info/poselenies/ladnoe_2",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.836147785186768,
+          53.849931805650904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Осиновица»",
+        "подробнее": "http://ecoby.info/poselenies/osinovica",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.265,
+          52.81306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Осники»",
+        "подробнее": "http://ecoby.info/poselenies/osniki",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.359736442565918,
+          53.59524288445199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Радaвое»",
+        "подробнее": "http://ecoby.info/poselenies/radavoe",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.037787,
+          53.314737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Радваничи»",
+        "подробнее": "http://ecoby.info/poselenies/radvanichi",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.0000,
+          52.0333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Смогилёвка»",
+        "подробнее": "http://ecoby.info/poselenies/smogiljovka",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.581275,
+          54.060589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Улесье»",
+        "подробнее": "http://ecoby.info/poselenies/ulese",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1519409,
+          54.8196191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Утраны»",
+        "подробнее": "http://ecoby.info/poselenies/utrany",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.716111121111,
+          52.608888898889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Утрина»",
+        "подробнее": "http://ecoby.info/poselenies/utrina",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.062129020690918,
+          55.153937913748095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Яснодар»",
+        "подробнее": "http://ecoby.info/poselenies/jasnodar",
+        "тип": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.78472137451172,
+          55.42954917778414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Васильковка»",
+        "подробнее": "http://ecoby.info/poselenies/vasilkovka",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.998865,
+          54.594445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Дубравушка»",
+        "подробнее": "http://ecoby.info/poselenies/dubravushka",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.54688816665646,
+          54.40109855026913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Збышин»",
+        "подробнее": "http://ecoby.info/poselenies/zbyshin",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.7654390335083,
+          53.50149993649527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Каханае»",
+        "подробнее": "http://ecoby.info/poselenies/kahanae",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.719063758850098,
+          55.28952693677035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Ладное»",
+        "подробнее": "http://ecoby.info/poselenies/ladnoe",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.020369,
+          54.618928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Ловцевичи»",
+        "подробнее": "http://ecoby.info/poselenies/lovcevichi",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.346601486206055,
+          54.254344858606345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Новая жизнь»",
+        "подробнее": "http://ecoby.info/poselenies/novaja_zhizn",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.97846031188965,
+          52.05478637585534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Ольгина Слобода»",
+        "подробнее": "http://ecoby.info/poselenies/olgina_sloboda",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.296245,
+          54.953076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Ольховка»",
+        "подробнее": "http://ecoby.info/poselenies/olhovka",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.232433319091797,
+          54.80489000180017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Радзімічы»",
+        "подробнее": "http://ecoby.info/poselenies/radzimichy",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.384020805358887,
+          52.45417876084295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Радужный край»",
+        "подробнее": "http://ecoby.info/poselenies/raduzhnyi_krai",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.735127,
+          53.024722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Развадово»",
+        "подробнее": "http://ecoby.info/poselenies/razvadovo",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.53451156616211,
+          53.6203612174246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Родовое поместье Леонида и Ольги Огурцовых деревне Уберцы»",
+        "подробнее": "http://ecoby.info/poselenies/ubercy",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.463022708892822,
+          54.958238317936306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Сшо»",
+        "подробнее": "http://ecoby.info/poselenies/ssho",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.241901397705078,
+          55.177936448531014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Челнышки»",
+        "подробнее": "http://ecoby.info/poselenies/chelnyshki",
+        "тип": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.452972412109375,
+          55.04297492742518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Могилёв, отзовись!»",
+        "подробнее": "http://ecoby.info/poselenies/mogiljov_otzovis",
+        "тип": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.34423828125,
+          53.87844040332883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "название": "Поселение «Папараць-Кветка»",
+        "подробнее": "http://ecoby.info/poselenies/paparac-kvetka",
+        "тип": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8238525390625,
+          53.672307307332225
+        ]
+      }
+    }
+  ]
+}
